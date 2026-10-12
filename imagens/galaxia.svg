@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460">
+  <title>Paisagem espacial original com dois sóis</title>
+  <defs>
+    <linearGradient id="ceu" x2="0" y2="1"><stop stop-color="#183640"/><stop offset="1" stop-color="#375861"/></linearGradient>
+    <radialGradient id="brilho"><stop stop-color="#e8ba83" stop-opacity=".3"/><stop offset="1" stop-color="#e8ba83" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="460" fill="url(#ceu)"/>
+  <ellipse cx="756" cy="232" rx="300" ry="210" fill="url(#brilho)"/>
+  <g fill="#f4f1e9">
+    <circle cx="68" cy="60" r="1.5"/><circle cx="161" cy="148" r="1"/><circle cx="238" cy="60" r="1.5"/><circle cx="298" cy="127" r="1"/><circle cx="361" cy="34" r="1"/><circle cx="483" cy="75" r="1.5"/><circle cx="604" cy="131" r="1"/><circle cx="825" cy="54" r="1.5"/><circle cx="945" cy="105" r="1"/><circle cx="1035" cy="47" r="1.5"/><circle cx="1129" cy="145" r="1"/><circle cx="109" cy="257" r="1"/><circle cx="439" cy="197" r="1"/>
+  </g>
+  <g stroke="#f4f1e9" stroke-width="1.4" opacity=".7"><path d="M345 89h12m-6-6v12M1080 204h14m-7-7v14M521 41h8m-4-4v8"/></g>
+  <ellipse cx="753" cy="200" rx="227" ry="107" fill="none" stroke="#e8ba83" opacity=".3" transform="rotate(-17 753 200)"/>
+  <circle cx="728" cy="190" r="63" fill="#e8ba83"/>
+  <circle cx="853" cy="240" r="30" fill="#f4f1e9"/>
+  <circle cx="299" cy="160" r="53" fill="none" stroke="#f4f1e9" stroke-opacity=".15"/>
+  <path d="M0 367c158-82 315-88 506-19 181 66 369-97 694-14v126H0z" fill="#65777a"/>
+  <path d="M0 407c230-122 385 26 605-35 273-77 355-25 595 35v53H0z" fill="#26434b"/>
+  <path d="M0 438c224-62 450-29 629-55 271-40 430-24 571 55v22H0z" fill="#183640"/>
+  <path d="M0 439c224-62 450-29 629-55 271-40 430-24 571 55" fill="none" stroke="#e8ba83" stroke-opacity=".45"/>
+  <g fill="#183640"><path d="M172 392l-7-38 10-7 11 7-6 38z"/><circle cx="175" cy="341" r="8"/><path d="M164 355l-7 28 5 1 9-25m9-4 10 23 4-2-9-24"/></g>
+  <text x="42" y="46" fill="#f4f1e9" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" opacity=".6">EXPLORAR É SÓ O COMEÇO</text>
+  <text x="1158" y="424" fill="#f4f1e9" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" text-anchor="end" opacity=".6">UM UNIVERSO DE POSSIBILIDADES</text>
+</svg>

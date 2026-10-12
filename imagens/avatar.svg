@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <title>Avatar de um estudante com notebook</title>
+  <rect width="440" height="440" fill="#e1e5d8"/>
+  <circle cx="220" cy="186" r="146" fill="#f4f1e9"/>
+  <circle cx="341" cy="98" r="27" fill="none" stroke="#ae562e" stroke-width="1.5"/>
+  <path d="M45 90h18m-9-9v18M375 220h18m-9-9v18" stroke="#183640" stroke-width="2"/>
+  <circle cx="91" cy="257" r="5" fill="#ae562e"/>
+  <circle cx="360" cy="294" r="3" fill="#65777a"/>
+  <path d="M89 415c0-91 43-140 131-140s131 49 131 140" fill="#183640"/>
+  <path d="M150 298l70 37 69-37-38-17h-62z" fill="#65777a"/>
+  <path d="M196 240v50c12 22 36 22 48 0v-50" fill="#c78664"/>
+  <ellipse cx="220" cy="192" rx="65" ry="83" fill="#dda98a"/>
+  <ellipse cx="156" cy="195" rx="10" ry="18" fill="#dda98a"/>
+  <ellipse cx="284" cy="195" rx="10" ry="18" fill="#dda98a"/>
+  <path d="M155 180c-14-55 10-90 58-91 17-23 67-2 73 39 4 23-2 48-2 48l-19-28c-32 2-55-13-64-18-8 22-26 31-46 31z" fill="#183640"/>
+  <path d="M178 178q13-8 25-1m32 0q12-7 24 1" fill="none" stroke="#183640" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="191" cy="191" r="3" fill="#183640"/>
+  <circle cx="248" cy="191" r="3" fill="#183640"/>
+  <path d="M218 195l-4 20h10M204 234q16 13 33-1" fill="none" stroke="#ae562e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M119 354l-9 57m211-57 9 57" stroke="#65777a" stroke-width="2"/>
+  <rect x="107" y="324" width="226" height="127" rx="9" fill="#65777a"/>
+  <rect x="111" y="328" width="218" height="120" rx="6" fill="#e1e5d8"/>
+  <path d="M202 375l-14 11 14 11m36-22 14 11-14 11m-14-27-8 32" fill="none" stroke="#183640" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="92" y="431" width="256" height="9" rx="4" fill="#183640"/>
+  <rect x="33" y="137" width="70" height="33" rx="7" fill="#183640"/>
+  <text x="68" y="158" fill="#f4f1e9" font-family="Arial,sans-serif" font-size="12" text-anchor="middle">HTML</text>
+  <rect x="332" y="157" width="64" height="33" rx="7" fill="#ae562e"/>
+  <text x="364" y="178" fill="#f4f1e9" font-family="Arial,sans-serif" font-size="12" text-anchor="middle">CSS</text>
+</svg>
